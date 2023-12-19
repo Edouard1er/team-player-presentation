@@ -43,8 +43,8 @@ const playersData = [
     id: 1,
     detailText: 
       <div>
-        <p>Meet the amazing coding guru, Idricealy MOURTADHOI, who at the tender age of 22 (born on 29/04/2001) is already conquering the coding world.</p>
-        <p>Hailing from the beautiful city of Marseille, France, Idricealy possesses coding strengths in Kotlin and Vue.js, making others green with envy.</p>
+        <p>Meet our It's difficuuuuullllt, Idricealy MOURTADHOI or Mustard, who at the tender age of 22 (born on 29/04/2001) is already conquering the coding world or not haha.</p>
+        <p>Child of the beautiful city of Marseille, France, Idricealy possesses coding strengths in Kotlin and Vue.js, making others green with envy except Eddy.</p>
         <p>But beware! His one weakness, which he boldly admits, is the mysterious realm of artificial intelligence. Yet, in a surprising twist, he proudly claims his biggest achievement in coding to be the victorious Hackathon of 2022, dedicated to FPF. Oh, the irony!</p>
       </div>
     ,
@@ -146,11 +146,11 @@ const playersData = [
     biggestAchievementInCoding: 'PIX Challenge Innovation 2023',
     interests: 'All sports, video games',
     position: 'Goalkeeper',
-    avatar: Felicien1, // Assurez-vous que Pilou est correctement importé
-    avatar2: Felicien2, // Assurez-vous que Pilou est correctement importé
+    avatar: Felicien1, 
+    avatar2: Felicien2, 
     detailText: (
       <div>
-        <p>Meet the coding virtuoso, Félicien BERTRAND, aged 22 (born on 14/07/2001), whose skills elevate him in the realm of programming.</p>
+        <p>Meet the coding virtuoso, Félicien BERTRAND, aged 22 (born on 14/07/2001), whose skills elevate him in the realm of programming even if he is shy haha.</p>
         <p>Originally from Bastia, Corsica, Félicien exhibits mastery in Python and database technologies, solidifying his position as a coding maestro.</p>
         <p>Despite his proficiency, Félicien humbly acknowledges that his coding journey encounters a roadblock with artificial intelligence, showcasing his dedication to continuous improvement.</p>
         <p>Notably, Félicien's most significant achievement in coding is securing victory in the PIX Challenge Innovation 2023, marking a milestone in his coding career.</p>
