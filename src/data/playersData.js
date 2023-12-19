@@ -66,7 +66,7 @@ const playersData = [
       <div>
         <p>Meet the amazing guy, the angel, the love for the entire world, the shining man, Chevenslove EDOUARD, AKA Eddy, who at the age of 25 (born on 06/02/1998) is making waves in the coding world.</p>
         <p>Eddy is from the town of Leogane, a treasure city in Haiti. Eddy excels in JavaScript and React. And that's why he uses React to develop this website, Olala, he's not humble haha.</p>
-        <p>However, even coding superman have their kryptonite, and for Chevenslove, it's the enigmatic world of artificial intelligence. Despite this, he proudly boasts his greatest coding achievement: developing a Monitoring and Evaluation Platform for a consortium comprising ACF, HEIFER, and JWT. Please clap your hands for Eddy!</p>
+        <p>However, even coding supermen have their kryptonite, and for Chevenslove, it's the enigmatic world of artificial intelligence. Despite this, he proudly boasts his greatest coding achievement: developing a Monitoring and Evaluation Platform for a consortium comprising ACF, HEIFER, and JWT. Please clap your hands for Eddy!</p>
         <p>When he's not crafting code, Chevenslove indulges in his passions for football and music, mainly haitian music named Konpa. A man of many talents and many surprises!</p>
       </div>
     ),
