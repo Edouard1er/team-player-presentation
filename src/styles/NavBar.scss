@@ -1,0 +1,40 @@
+@import "../constants/variablesStyle.scss";
+
+.navbar-custom {
+    width: 100%;
+    min-height: 80px;
+    flex-shrink: 0;
+    fill: $primary-color;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    background-color: $primary-color;
+    color: $third-color;
+}
+
+.link {
+  color: $third-color !important;
+}
+
+.link:hover {
+  color: #e24e41 !important;
+}
+
+.custom-dropdown-menu a:not(.disabled):active {
+  background-color: $primary-color; 
+  color: $third-color;
+}
+
+.dropdown-item.active{
+  background-color: $primary-color !important;
+}
+
+.dropdown-menu {
+  margin-left: 35px !important;
+}
+
+.dropdown-toggle.user-menu-item::after {
+  display: none !important; 
+}
+
+.navbar-user-stack{
+  width: fit-content !important;
+}
