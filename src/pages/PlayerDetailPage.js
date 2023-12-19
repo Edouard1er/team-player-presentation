@@ -64,7 +64,7 @@ const PlayerDetailPage = () => {
 
     </Card>
 
-    <div style={{marginBottom: "5%"}}>
+    <div style={{marginBottom: "5%"}} className='playerDetail'>
      {player.detailText}
     </div>
 

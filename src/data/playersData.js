@@ -37,7 +37,7 @@ const playersData = [
     codingWeakness: 'IA',
     biggestAchievementInCoding: 'Hackathon 2022 (dedicated to FPF)',
     interests: 'Football',
-    position: 'Forward',
+    position: 'Attaquing Center Mid',
     avatar: Idrice1,
     avatar2: Idrice2,
     id: 1,
@@ -59,7 +59,7 @@ const playersData = [
     codingWeakness: 'IA',
     biggestAchievementInCoding: 'A Monitoring and Evaluation Platform for a consortium (ACF, HEIFER, JWT)',
     interests: 'Football and Music',
-    position: 'Defender', 
+    position: 'Right Center Back', 
     avatar: Eddy2, 
     avatar2: Eddy1, 
     detailText: (
@@ -80,7 +80,7 @@ const playersData = [
     codingWeakness: 'IA',
     biggestAchievementInCoding: 'No Code',
     interests: 'Central Back in Football',
-    position: 'Forwad', 
+    position: 'Right Winger', 
     avatar: Pilou1, 
     avatar2: Pilou2, 
     detailText: (
@@ -101,7 +101,7 @@ const playersData = [
     codingWeaknesses: 'Web developer',
     biggestAchievementInCoding: 'Creation of an application to manage a company\'s quotes and customers',
     interests: 'FootBall, Rhum',
-    position: 'Forwad',
+    position: 'Center Forwad',
     avatar: Toussaint1, 
     avatar2: Toussaint2, 
     detailText: (
@@ -122,7 +122,7 @@ const playersData = [
     codingWeaknesses: 'Everything else',
     biggestAchievementInCoding: 'Quoted in Corse-matin but not for coding',
     interests: 'FootBall, culture and money',
-    position: 'Defender',
+    position: 'Left Outside Back',
     avatar: Dimitri2, 
     avatar2: Dimitri1, 
     detailText: (
@@ -157,7 +157,30 @@ const playersData = [
         <p>Beyond coding, Félicien's interests extend to a wide spectrum, encompassing all sports and indulging in the virtual realms of video games.</p>
       </div>
     ),
-  }
+  },
+
+  // {
+  //   id: 7,
+  //   name: 'Tom OLIVIER',
+  //   age: '24 yo, 02/02/1999',
+  //   placeOfBirth: 'Paris, France',
+  //   codingStrengths: 'Python, database, web',
+  //   codingWeaknesses: 'network',
+  //   biggestAchievementInCoding: 'Entrop \'var, Hackathon 2023 and 2024, Challenge Innovation, PIX, Voltaire',
+  //   interests: 'Triathlon, street workout',
+  //   position: 'Left Winger',
+  //   avatar: Tom1, 
+  //   avatar2: Tom2, 
+  //   detailText: (
+  //     <div>
+  //       <p>Meet the coding virtuoso, Tom OLIVIER, aged 24 (born on 02/02/1999), whose coding journey unfolds in the heart of Paris, France.</p>
+  //       <p>Tom's coding repertoire boasts strengths in Python, database management, and web development, showcasing his versatile skill set.</p>
+  //       <p>However, he navigates the challenges of networking with humility, acknowledging it as an area for growth in his coding odyssey.</p>
+  //       <p>Tom's coding accolades include notable achievements such as Entrop 'var, victories in Hackathons of 2023 and 2024, triumphs in Challenge Innovation, PIX, and Voltaire.</p>
+  //       <p>Outside the digital realm, Tom engages in the physical pursuit of interests like triathlon and street workout, demonstrating a harmonious blend of mind and body.</p>
+  //     </div>
+  //   ),
+  // }
     
   ];
   
