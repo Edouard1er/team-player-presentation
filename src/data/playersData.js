@@ -1,6 +1,6 @@
 import Pilou1 from "../assets/Pilou 1.png"
 import Pilou2 from "../assets/Pilou 1.png"
-import Eddy1 from "../assets/Eddy1.jpeg"
+import Eddy1 from "../assets/Eddy4.jpeg"
 import Eddy2 from "../assets/Eddy3.jpeg"
 import Amine1 from "../assets/Amine 1.png"
 import Amine2 from "../assets/Amine 2.png"
